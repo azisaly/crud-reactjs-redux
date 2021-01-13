@@ -84,5 +84,19 @@
             "umur": 28,
             "nohp": "0985575575"
         },
+        {
+            "id": 13,
+            "nama": "adit",
+            "alamat": "bekasi",
+            "umur": 28,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 13,
+            "nama": "lia",
+            "alamat": "bekasi",
+            "umur": 28,
+            "nohp": "0985575575"
+        }
     ]
 }
