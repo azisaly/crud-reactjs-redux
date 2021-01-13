@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "azis",
+            "alamat": "Ngawi",
+            "umur": 26,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 2,
+            "nama": "ahmad",
+            "alamat": "probolinggo",
+            "umur": 27,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 3,
+            "nama": "ayu",
+            "alamat": "bandung",
+            "umur": 25,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 4,
+            "nama": "lina",
+            "alamat": "jakarta",
+            "umur": 26,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 5,
+            "nama": "dewi",
+            "alamat": "jakrta",
+            "umur": 26,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 6,
+            "nama": "azis",
+            "alamat": "Ngawi",
+            "umur": 26,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 7,
+            "nama": "setya",
+            "alamat": "bogor",
+            "umur": 28,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 8,
+            "nama": "dewi",
+            "alamat": "tangsel",
+            "umur": 28,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 9,
+            "nama": "ayu",
+            "alamat": "tangsel",
+            "umur": 29,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 10,
+            "nama": "ali",
+            "alamat": "Ngawi",
+            "umur": 26,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 11,
+            "nama": "bayu",
+            "alamat": "bandung",
+            "umur": 28,
+            "nohp": "0985575575"
+        },
+        {
+            "id": 12,
+            "nama": "bambang",
+            "alamat": "bekasi",
+            "umur": 28,
+            "nohp": "0985575575"
+        },
+    ]
+}
